@@ -25,5 +25,16 @@
     "express-validator": "^6.9.2",
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": "* ให้นักศึกษาสร้าง RESTful API โดยใช้ Express Framework ตามที่ได้อธิบายไว้ใน [ลิ้งค์ Google Document นี้](https://docs.google.com/document/d/1_U-EvJXLMlaz046yWOIrxLo6EbarQ3VXYiEVRpFRcpo/edit?usp=sharing)\r * เมื่อ Clone repo เสร็จแล้ว ***ให้รันคำสั่ง npm install และคำสั่ง npm run dev*** (โค้ดจะทำการ reload อัตโนมัติเมื่อมีการแก้ไขโค้ด)\r * เมื่อทำเสร็จ จงแชร์ลิงค์ของแอพพลิเคชันที่ deploy ด้วย heroku ไว้ใน readme.md นี้\r * จงเขียนชื่อ-นามสกุล และรหัสของนักศึกษา ลงในไฟล์ readme.md นี้ \r * พงศธร น้อยนาช 620610797",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpe-cmu-261207/quiz441-GraPhong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/cpe-cmu-261207/quiz441-GraPhong/issues"
+  },
+  "homepage": "https://github.com/cpe-cmu-261207/quiz441-GraPhong#readme"
 }
